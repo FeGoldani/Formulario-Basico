@@ -1,0 +1,2 @@
+﻿input:required:valid{border:1px solid green}
+input:required:invalid{border:1px solid red}
